@@ -66,7 +66,7 @@ int main()
 
   while(1)
   {
-    _delay_us(200);
+    _delay_us(2000);
     
     if(c1_hi)
     {
